@@ -17,4 +17,6 @@
 
 # Run
 
-`npm start`
+`npm start` - Start the application
+
+`npm run css` - Start tailwind
